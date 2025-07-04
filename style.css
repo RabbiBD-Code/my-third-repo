@@ -1,0 +1,20 @@
+body{
+    background-color: #85dfe5;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    text-align: center;
+    border: 1px solid red;
+    background-color: rgb(230, 7, 7);
+    /* height: 40px; */
+}
+li{
+    display: inline-block;
+    padding: 7px 7px ;
+background-color: rgb(3, 192, 113);
+border-radius: 5px;
+width: 70px;
+}
