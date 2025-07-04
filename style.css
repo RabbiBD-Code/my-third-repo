@@ -1,20 +1,78 @@
-body{
+body {
     background-color: #85dfe5;
 }
-*{
+
+* {
     margin: 0;
     padding: 0;
 }
-.navbar{
+
+
+.navbar {
     text-align: center;
     border: 1px solid red;
     background-color: rgb(230, 7, 7);
     /* height: 40px; */
 }
-li{
+
+li {
     display: inline-block;
-    padding: 7px 7px ;
-background-color: rgb(3, 192, 113);
-border-radius: 5px;
-width: 70px;
+    padding: 7px 7px;
+    background-color: rgb(3, 192, 113);
+    border-radius: 20px;
+    width: 115px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.kushtia {
+    text-align: center;
+    color: rgb(39, 59, 58);
+    background-color: rgb(187, 156, 156);
+    font-style: ;
+    text-align: justify;
+    margin: 20px 20px 25px 20px;
+    border: px solid hsl(342, 90%, 55%);
+    border-radius: 10px;
+    /* width: 600px; */
+    box-shadow: 10px 10px 15px hsla(0, 83%, 5%, 0.986);
+    padding: 10px 20px 25px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgb(29, 29, 75);
+    background-color: rgba(245, 107, 43, 0.815);
+    border-radius: 20px;
+}
+.main-div{
+   text-shadow: 1px 1px rgba(236, 80, 80, 0.705);
+}
+.kumarkhali{
+    text-align: center;
+    color: rgb(39, 59, 58);
+    background-color: rgb(187, 156, 156);
+    font-style: ;
+    text-align: justify;
+   margin: 20px 20px 25px 20px;
+    /* border: 10px solid hsl(342, 90%, 55%); */
+    border-radius: 10px;
+    /* width: 600px; */
+    box-shadow: 10px 10px 15px hsla(0, 83%, 5%, 0.986);
+    padding: 10px 20px 25px;
+}
+.khoksha{
+    text-align: center;
+    color: rgb(39, 59, 58);
+    background-color: rgb(187, 156, 156);
+    font-style: ;
+    text-align: justify;
+    margin: 20px 20px 25px 20px;
+    /* border: 10px solid hsl(342, 90%, 55%); */
+    border-radius: 10px;
+    /* width: 600px; */
+    box-shadow: 10px 10px 15px hsla(0, 83%, 5%, 0.986);
+    padding: 10px 20px 25px;
 }
